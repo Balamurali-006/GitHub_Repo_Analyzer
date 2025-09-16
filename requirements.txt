@@ -1,6 +1,6 @@
-
 streamlit
 transformers
 torch
 tqdm
-requests
+requests==2.31.0
+
